@@ -27,7 +27,7 @@ Other plugins use 3rd party hubs to relay updates out to subscribers.  This plug
 
 = Is there anything to configure? =
 
-No, once the plugin is activated it takes care of the rest.
+No, once the plugin is activated it takes care of everything else.
 
 == Changelog ==
 
