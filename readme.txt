@@ -15,7 +15,7 @@ This plugin adds WebSub/PubSubHubbub ( PuSH ) support to your WordPress powered 
 
 == Installation ==
 
-1. Upload `pushpress.zip` to your plugins directory ( usally `/wp-content/plugins/` )
+1. Upload `pushpress.zip` to your plugins directory ( usually `/wp-content/plugins/` )
 2. Unzip the `pushpress.zip` file
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
